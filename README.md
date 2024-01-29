@@ -7,7 +7,7 @@
 ### https://chatifynew.vercel.app/
 
 <div align="center">
-  <img alt="Demo" src="./Assets/chatify.png" />
+  <img alt="Demo" src="./Assets/chatify.jpg" />
 </div>
 
 </div>
@@ -31,7 +31,7 @@
 
 ### Clone this repository
 
-`git clone https://github.com/soumyajit4419/Chatify.git` <br/>
+`git clone https://github.com/shivangi234/chatify.git` <br/>
 `cd chatify`
 
 ### Install Dependencies
